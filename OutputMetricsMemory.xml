@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Metrics-Memory>
+    <availableMemorySize>628690944</availableMemorySize>
+    <totalMemorySize>8318365696</totalMemorySize>
+    <usedMemorySize>2237837312</usedMemorySize>
+    <energyConsumption>1</energyConsumption>
+    <isAppRunning>true</isAppRunning>
+    <ID_Of_MemoryMeasurement>59</ID_Of_MemoryMeasurement>
+    <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+</Metrics-Memory>

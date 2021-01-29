@@ -1,0 +1,44 @@
+{
+  "_templates": {
+    "example-template": {
+      "addons": [
+        {
+          "type": "batch",
+          "batch_size": 2
+        }
+      ],
+      "transport": {
+        "type": "socket",
+        "protocol": "udp",
+        "address": "127.0.0.1",
+        "port": 3000
+      }
+    }
+  },
+  "publish-block": {
+    "links": {
+      "channels": {
+        "publish-tcp": {
+          "_template": "example-template",
+          "transport": {
+            "publish": true,
+            "host_server": false
+          }
+        }
+      }
+    }
+  },
+  "subscribe-block": {
+    "links": {
+      "channels": {
+        "subscribe-tcp": {
+          "_template": "example-template",
+          "transport": {
+            "publish": false,
+            "host_server": true
+          }
+        }
+      }
+    }
+  }
+}

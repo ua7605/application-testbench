@@ -1,0 +1,95 @@
+{
+  "_templates": {
+    "zmq_sub": {
+      "transport": {
+        "type": "zeromq",
+        "publish": false,
+        "host_server": false
+      }
+    },
+    "zmq_pub": {
+      "transport": {
+        "type": "zeromq",
+        "publish": true
+      }
+    }
+  },
+  "agent": {
+    "links": {
+      "channels": {
+        "device-routing-table": {
+          "_template": "zmq_sub",
+          "transport": {
+            "host_server": true,
+            "host": "tcp://127.0.0.1:7000",
+            "topic": "device-routing-table"
+          }
+        },
+        "device-hardware": {
+          "_template": "zmq_pub",
+          "transport": {
+            "host_server": false,
+            "host": "tcp://127.0.0.1:7001",
+            "topic": "device-hardware"
+          }
+        },
+        "device-running-tasks": {
+          "_template": "zmq_pub",
+          "transport": {
+            "host_server": false,
+            "host": "tcp://127.0.0.1:7002",
+            "topic": "device-running-tasks"
+          }
+        },
+        "application-control": {
+          "_template": "zmq_sub",
+          "transport": {
+            "host_server": false,
+            "host": "tcp://127.0.0.1:7100",
+            "topic": "application-control"
+          }
+        },
+        "network-measurements-control": {
+          "_template": "zmq_sub",
+          "transport": {
+            "host_server": false,
+            "host": "tcp://127.0.0.1:7101",
+            "topic": "network-measurements-control"
+          }
+        },
+        "network_heartbeat": {
+          "_template": "zmq_pub",
+          "transport": {
+            "host_server": true,
+            "host": "tcp://0.0.0.0:8001",
+            "topic": "network-heartbeat"
+          }
+        },
+        "state-share": {
+          "_template": "zmq_pub",
+          "transport": {
+            "host_server": true,
+            "host": "tcp://0.0.0.0:7200",
+            "topic": "state-share"
+          }
+        },
+        "state-control": {
+          "_template": "zmq_pub",
+          "transport": {
+            "host_server": true,
+            "host": "tcp://0.0.0.0:7201",
+            "topic": "state-control"
+          }
+        },
+        "agent-control": {
+          "_template": "zmq_pub",
+          "transport": {
+            "host": "tcp://127.0.0.1:7202",
+            "topic": "agent-control",
+            "host_server": false
+          }
+        }
+      }
+    }
+  }
+}

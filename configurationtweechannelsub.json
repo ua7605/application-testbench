@@ -1,0 +1,27 @@
+{
+  "stressor-sub": {
+    "links": {
+      "channels": {
+        "topic-sub": {
+          "transport": {
+            "type": "socket",
+            "protocol": "udp",
+            "address": "127.0.0.1",
+            "port": 3000,
+            "publish": false,
+            "host_server": true
+          }
+        },
+        "tweede-channel-sub": {
+          "transport": {
+            "type": "mqtt",
+            "host": "127.0.0.2",
+            "port": 1883,
+            "topic": "dust-test",
+            "publish": false
+          }
+        }
+      }
+    }
+  }
+}

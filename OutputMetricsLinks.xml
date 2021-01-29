@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list-Total>
+    <listLinks>
+        <linkName>ens33</linkName>
+        <usedBandwith>11212</usedBandwith>
+        <totalAvailableBandwidth>1048576000</totalAvailableBandwidth>
+        <latency>3.58</latency>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_LinkMeasurement>42</ID_Of_LinkMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listLinks>
+</list-Total>

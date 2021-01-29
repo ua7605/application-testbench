@@ -1,0 +1,27 @@
+{
+  "Testbench-sub": {
+    "links": {
+      "channels": {
+        "channel-TCP": {
+          "transport": {
+            "type": "socket",
+            "protocol": "tcp",
+            "address": "127.0.0.1",
+            "port": 3000,
+            "publish": false,
+            "host_server": true
+          }
+        },
+        "channel-MQTT": {
+          "transport": {
+            "type": "mqtt",
+            "host": "127.0.0.2",
+            "port": 1883,
+            "topic": "dust-test",
+            "publish": false
+          }
+        }
+      }
+    }
+  }
+}

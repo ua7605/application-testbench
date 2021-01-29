@@ -1,0 +1,41 @@
+{
+  "_templates": {
+    "zmq": {
+      "addons": [
+      ],
+      "transport": {
+        "type": "zeromq",
+        "topic": "testing-grounds",
+        "protocol": "tcp",
+        "address": "127.0.0.1",
+        "port": 5000
+      }
+    }
+  },
+  "publisher-block": {
+    "links": {
+      "channels": {
+        "publish-zmq": {
+          "_template": "zmq",
+          "transport": {
+            "host_server": true,
+            "publish": true
+          }
+        }
+      }
+    }
+  },
+  "subscriber-block": {
+    "links": {
+      "channels": {
+        "subscription-channel": {
+          "_template": "zmq",
+          "transport": {
+            "host_server": false,
+            "publish": false
+          }
+        }
+      }
+    }
+  }
+}

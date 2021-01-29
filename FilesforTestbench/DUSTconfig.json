@@ -1,0 +1,9 @@
+{
+  "BlockName-of-subscribe-block": "Testbench-sub",
+  "list-of-channels": [
+    {"channelName0": "channel-UDP"},
+    {"channelName1": "channel-MQTT"}
+
+  ]
+}
+

@@ -1,0 +1,10 @@
+{"Metrics-Processor": {
+    "totalProcessingPower": 400,
+    "isAppRunning": true,
+    "nameOfDevice": "VMware Virtual Platform",
+    "totalCores": 4,
+    "ID_Of_ProcessorMeasurement": 56,
+    "usedProcessingPower": 94,
+    "processorEnergyConsumption": 1,
+    "availableProcessingPower": 231
+}}

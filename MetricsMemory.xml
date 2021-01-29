@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists-Total-memory-Measures>
+    <listMemoryMeasures>
+        <availableMemorySize>3938656256</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4379709440</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>0</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3938656256</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4379709440</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>1</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3947741184</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4370624512</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>2</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3947741184</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4370624512</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>3</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3958702080</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4359663616</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>4</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956703232</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361662464</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>5</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956686848</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361678848</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>6</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956719616</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361646080</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>7</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956482048</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361883648</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>8</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956465664</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361900032</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_MemoryMeasurement>9</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956658176</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361707520</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_MemoryMeasurement>10</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3956662272</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4361703424</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_MemoryMeasurement>11</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3954298880</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4364066816</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_MemoryMeasurement>12</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+    <listMemoryMeasures>
+        <availableMemorySize>3954274304</availableMemorySize>
+        <totalMemorySize>8318365696</totalMemorySize>
+        <usedMemorySize>4364091392</usedMemorySize>
+        <energyConsumption>1</energyConsumption>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_MemoryMeasurement>13</ID_Of_MemoryMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </listMemoryMeasures>
+</lists-Total-memory-Measures>

@@ -1,0 +1,39 @@
+{
+  "_templates": {
+    "mqtt": {
+      "addons": [
+      ],
+      "transport": {
+        "type": "mqtt",
+        "host": "127.0.0.1",
+        "port": 1883,
+        "topic": "dust-test",
+        "publish": false
+      }
+    }
+  },
+  "publisher-block": {
+    "links": {
+      "channels": {
+        "publish-mqtt": {
+          "_template": "mqtt",
+          "transport": {
+            "publish": true
+          }
+        }
+      }
+    }
+  },
+  "subscriber-block": {
+    "links": {
+      "channels": {
+        "subscription-channel": {
+          "_template": "mqtt",
+          "transport": {
+            "publish": false
+          }
+        }
+      }
+    }
+  }
+}

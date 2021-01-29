@@ -1,0 +1,18 @@
+{
+  "Testbench-sub": {
+    "links": {
+      "channels": {
+        "channel-UDP": {
+          "transport": {
+            "type": "socket",
+            "protocol": "udp",
+            "address": "127.0.0.1",
+            "port": 3000,
+            "publish": false,
+            "host_server": true
+          }
+        }
+      }
+    }
+  }
+}

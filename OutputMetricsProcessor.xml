@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Metrics-Processor>
+    <availableProcessingPower>189</availableProcessingPower>
+    <totalCores>4</totalCores>
+    <processorEnergyConsumption>1</processorEnergyConsumption>
+    <totalProcessingPower>400</totalProcessingPower>
+    <usedProcessingPower>104</usedProcessingPower>
+    <isAppRunning>true</isAppRunning>
+    <ID_Of_ProcessorMeasurement>58</ID_Of_ProcessorMeasurement>
+    <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+</Metrics-Processor>

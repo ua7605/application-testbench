@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists-Total-Processor-Measures>
+    <metricprocessorList>
+        <availableProcessingPower>250</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>150</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>0</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>250</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>150</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>1</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>250</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>150</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>2</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>250</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>150</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>3</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>250</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>150</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>4</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>262</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>138</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>5</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>262</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>138</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>6</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>262</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>138</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>7</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>262</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>138</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>8</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>262</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>138</usedProcessingPower>
+        <isAppRunning>false</isAppRunning>
+        <ID_Of_ProcessorMeasurement>9</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>293</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>107</usedProcessingPower>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_ProcessorMeasurement>10</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>293</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>107</usedProcessingPower>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_ProcessorMeasurement>11</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>293</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>107</usedProcessingPower>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_ProcessorMeasurement>12</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+    <metricprocessorList>
+        <availableProcessingPower>293</availableProcessingPower>
+        <totalCores>4</totalCores>
+        <processorEnergyConsumption>1</processorEnergyConsumption>
+        <totalProcessingPower>400</totalProcessingPower>
+        <usedProcessingPower>107</usedProcessingPower>
+        <isAppRunning>true</isAppRunning>
+        <ID_Of_ProcessorMeasurement>13</ID_Of_ProcessorMeasurement>
+        <nameOfDevice>VMware Virtual Platform</nameOfDevice>
+    </metricprocessorList>
+</lists-Total-Processor-Measures>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ALL-DUST-Channels>
+    <listDUSTLinks>
+        <channelName>topic-sub</channelName>
+        <totalSizeOfAllMessagesSend>32374016</totalSizeOfAllMessagesSend>
+        <totalMessagescounter>126461</totalMessagescounter>
+        <messagesPerSecond>2107</messagesPerSecond>
+        <loadPerSecond>539566</loadPerSecond>
+    </listDUSTLinks>
+</ALL-DUST-Channels>

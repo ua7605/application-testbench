@@ -1,0 +1,9 @@
+{"list-Total": {"listLinks": {
+    "ID_Of_LinkMeasurement": 42,
+    "usedBandwith": 11212,
+    "isAppRunning": true,
+    "nameOfDevice": "VMware Virtual Platform",
+    "latency": 3.58,
+    "totalAvailableBandwidth": 1048576000,
+    "linkName": "ens33"
+}}}

@@ -1,0 +1,10 @@
+[TestbenchController]
+Name= 'controller'
+LocalSoftwareFolder="./"
+module_path='/home/vincentcharpentier/project/application-testbench/modules'
+config_file_path="/home/vincentcharpentier/project/application-testbench/configuration.json"
+pathFile_toDUSTConfig ="/home/vincentcharpentier/project/application-testbench/DUSTconfig.json"
+
+doAmeasurementEveryInMicroSeconds = 1000.0
+totalTimeOfTheMeasurementInSeconds = 60.0
+startPhraseToStartMonitoring = "yes"
